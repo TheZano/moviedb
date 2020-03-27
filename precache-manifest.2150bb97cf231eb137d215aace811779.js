@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f1fd649df981946d9d49df178b48094b",
+    "revision": "0caf5c1dd2a079ff2a8feea949ecef3b",
     "url": "/moviedb/index.html"
   },
   {
-    "revision": "ba2e028c920507e6b8cb",
-    "url": "/moviedb/static/css/main.c90f3fe3.chunk.css"
+    "revision": "6cfeb6bd1288408eb34a",
+    "url": "/moviedb/static/css/main.8a5cd0c3.chunk.css"
   },
   {
     "revision": "6628e8792e5f70f9739a",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/moviedb/static/js/2.961bb224.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ba2e028c920507e6b8cb",
-    "url": "/moviedb/static/js/main.c2eec85b.chunk.js"
+    "revision": "6cfeb6bd1288408eb34a",
+    "url": "/moviedb/static/js/main.84e67a03.chunk.js"
   },
   {
     "revision": "bbf4d82f2506f627858f",
